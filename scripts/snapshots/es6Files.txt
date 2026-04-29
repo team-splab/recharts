@@ -34,6 +34,7 @@
   "es6/chart",
   "es6/chart/AreaChart.js",
   "es6/chart/BarChart.js",
+  "es6/chart/CalendarChart.js",
   "es6/chart/CartesianChart.js",
   "es6/chart/CategoricalChart.js",
   "es6/chart/ComposedChart.js",
