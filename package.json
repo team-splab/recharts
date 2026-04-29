@@ -1,6 +1,6 @@
 {
-  "name": "recharts",
-  "version": "3.8.1",
+  "name": "@team-splab/recharts",
+  "version": "3.8.1-pilots.1",
   "description": "React charts",
   "main": "lib/index.js",
   "module": "es6/index.js",
